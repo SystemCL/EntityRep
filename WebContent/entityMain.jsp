@@ -4,14 +4,56 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Entity</title>
 </head>
 <body>
 
+<link rel="stylesheet" type="text/css" href="style.css"/>
 
-<center><h1>Main page</h1></center>
+<form method="get" action="index.jsp" style="float: right;">
+    <input type="submit" value="Log Out">
+</form>
+
+<center><h2>Entity</h2></center>
 <center><h1>Vasile Ion</h1></center>
-<img class="roundrect" src="menSmile.jpeg">
+
+<center><img class="example"  src="menSmile.jpg"></center>
+
+
+<center><ul style="list-style-type:none;">
+<li>Chisinau</li>
+<li>vasileion@gmail.com</li>
+<li>+37368001122</li>
+<li>My school</li>
+<li>Info</li>
+</ul></center>
+
+
+
+<center><table style="width:40%">
+  <tr>
+    <td>10.10.2016<br> Nice person! Like sdfasfsdfsdfssdfsfsvfvdvdfvfdvfd</td> 
+     <td><button type="button">UP  </button></td>
+     <td><button type="button">DOWN</button></td>
+  </tr>
+   <tr>
+    <td>10.10.2016<br>Nice person! Like text texttex text text text texte dasfassaffs</td> 
+    <td><button type="button">UP  </button></td>
+    <td><button type="button">DOWN</button></td>
+  </tr>
+  <tr>
+    <td>10.10.2016<br>Some text, Some text, Some text, Some text, Some text</td> 
+    <td><button type="button">UP  </button></td>
+    <td><button type="button">DOWN</button></td>
+  </tr>
+
+</table></center>
+
+
+
+
+
+
 
 </body>
 </html>

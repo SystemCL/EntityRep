@@ -20,6 +20,20 @@ border-radius: 15px;
 }
 
 
+.rectangle{
+    width:200px;
+    height:100px;
+    background:blue;
+}
+
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
 /* ---------- LOGIN ---------- */
 #login {
 margin: 50px auto;
