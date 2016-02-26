@@ -37,7 +37,7 @@ table, th, td {
 /* ---------- LOGIN ---------- */
 #login {
 margin: 50px auto;
-width: 300px;
+width: 309px;
 }
 form fieldset input[type="text"], input[type="password"] {
 background-color: #e5e5e5;
