@@ -4,27 +4,36 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Entity</title>
 </head>
 <body>
 <b><h1><center>Entity</center></h1></b>
 
-<section class="loginform cf">
 
-<center><form name="login" action="entityMain.jsp" method="get" accept-charset="utf-8">
-    
-        <label for="usermail">Email</label>
-        <center><input type="email" name="usermail" placeholder="yourname@email.com" required></center>
-        <center><label for="password">Password</label></center>
-        <input type="password" name="password" placeholder="password" required>
-        <br>
-        <br>
-        
-         <button>Login</button>
+<link rel="stylesheet" type="text/css" href="style.css"/>
 
-    
-</form></center>
-</section>
 
+</head>
+<body>
+<div id="login">
+<h1><strong>Welcome.</strong> Please login.</h1>
+<form action="entityMain.jsp" method="get">
+<fieldset>
+<p><input type="text" required value="Username" onBlur="if(this.value=='')this.value='Username'" onFocus="if(this.value=='Username')this.value='' "></p>
+<p><input type="password" required value="Password" onBlur="if(this.value=='')this.value='Password'" onFocus="if(this.value=='Password')this.value='' "></p>
+<p><a href="#">Forgot Password?</a></p>
+<p><input type="submit" value="Login"></p>
+</fieldset>
+</form>
+<p><span class="btn-round">or</span></p>
+<p>
+<a class="facebook-before"></a>
+<button class="facebook">Login Using Facbook</button>
+</p>
+<p>
+<a class="twitter-before"></a>
+<button class="twitter">Login Using Twitter</button>
+</p>
+</div> <!-- end login -->
 </body>
 </html>

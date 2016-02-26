@@ -10,7 +10,8 @@
 
 
 <center><h1>Main page</h1></center>
-<center><h1>HA HA</h1></center>
+<center><h1>Vasile Ion</h1></center>
+<img class="roundrect" src="menSmile.jpeg">
 
 </body>
 </html>
