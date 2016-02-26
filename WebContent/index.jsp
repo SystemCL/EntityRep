@@ -7,6 +7,23 @@
 <title>Insert title here</title>
 </head>
 <body>
-<b> Hello World !!!!!!!!!!!! </b>
+<b><h1><center>Entity</center></h1></b>
+
+<section class="loginform cf">
+
+<center><form name="login" action="index_submit" method="get" accept-charset="utf-8">
+    
+        <label for="usermail">Email</label>
+        <center><input type="email" name="usermail" placeholder="yourname@email.com" required></center>
+        <center><label for="password">Password</label></center>
+        <input type="password" name="password" placeholder="password" required>
+        <br>
+        <br>
+      
+      <a href='entityMain.jsp' >Login</a>
+    
+</form></center>
+</section>
+
 </body>
 </html>
