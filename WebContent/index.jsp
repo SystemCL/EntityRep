@@ -11,7 +11,7 @@
 
 <section class="loginform cf">
 
-<center><form name="login" action="index_submit" method="get" accept-charset="utf-8">
+<center><form name="login" action="entityMain.jsp" method="get" accept-charset="utf-8">
     
         <label for="usermail">Email</label>
         <center><input type="email" name="usermail" placeholder="yourname@email.com" required></center>
@@ -19,8 +19,9 @@
         <input type="password" name="password" placeholder="password" required>
         <br>
         <br>
-      
-      <a href='entityMain.jsp' >Login</a>
+        
+         <button>Login</button>
+
     
 </form></center>
 </section>
