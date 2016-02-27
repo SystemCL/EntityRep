@@ -7,11 +7,9 @@
 <title>Entity</title>
 </head>
 <body>
-<b><h1><center>Entity</center></h1></b>
-
+<b><font size="9" color="red"><center>Entity</center></font></b>
 
 <link rel="stylesheet" type="text/css" href="style.css"/>
-
 
 </head>
 <body>
