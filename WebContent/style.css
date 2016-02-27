@@ -123,7 +123,7 @@ color: #f4f4f4;
 cursor: pointer;
 height: 50px;
 text-transform: uppercase;
-width: 250px;
+width: 270px;
 }
 
 h2 {
@@ -131,7 +131,6 @@ h2 {
   margin: 40px 603px;
   font-size: 52px;
 
- 
   text-transform: uppercase;
   text-rendering: optimizeLegibility;
 }

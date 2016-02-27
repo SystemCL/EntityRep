@@ -29,10 +29,7 @@
 <p style="padding-left: 35px">
 <button class="facebook">Login Using Facbook</button>
 </p>
-<p>
-<p style="padding-left: 35px">
-<button class="twitter">Login Using Twitter</button>
-</p>
+
 </div> <!-- end login -->
 </body>
 </html>
