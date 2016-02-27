@@ -20,23 +20,9 @@ border-radius: 15px;
 }
 
 
-.rectangle{
-    width:200px;
-    height:100px;
-    background:blue;
-}
-
-
-
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-}
-
-
 /* ---------- LOGIN ---------- */
 #login {
-margin: 50px auto;
+margin: 38px auto;
 width: 309px;
 }
 form fieldset input[type="text"], input[type="password"] {
@@ -83,7 +69,7 @@ display: block;
 font-size: 12px;
 height: 50px;
 line-height: 50px;
-margin: 30px 125px;
+margin: 20px 135px;
 text-align: center;
 text-transform: uppercase;
 width: 50px;
@@ -112,6 +98,7 @@ cursor: pointer;
 height: 50px;
 text-transform: uppercase;
 width: 250px;
+
 }
 .twitter-before {
 background-color: #189bcb;
@@ -137,4 +124,20 @@ cursor: pointer;
 height: 50px;
 text-transform: uppercase;
 width: 250px;
+}
+
+h2 {
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 52px;
+  padding: 3px 20px;
+  text-align: center;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+}
+
+h2.retroshadow {
+  color: #2c2c2c;
+  background-color: transparent;
+  letter-spacing: .05em;
+  text-shadow: 5px 5px 0px #d5d5d5, 7px 7px 0px rgba(0, 0, 0, 0.2);
 }

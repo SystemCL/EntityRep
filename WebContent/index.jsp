@@ -7,7 +7,9 @@
 <title>Entity</title>
 </head>
 <body>
-<b><font size="9" color="red"><center>Entity</center></font></b>
+
+<!-- <b><font size="9" color="#5F9EA0"><center>Entity</center></font></b> --> 
+<h2 class='retroshadow'>Entity</h2>
 
 <link rel="stylesheet" type="text/css" href="style.css"/>
 
@@ -23,13 +25,12 @@
 <p><input type="submit" value="Login"></p>
 </fieldset>
 </form>
-<p><span class="btn-round">or</span></p>
-<p>
-<a class="facebook-before"></a>
+<p><span class="btn-round" >or</span></p>
+<p style="padding-left: 35px">
 <button class="facebook">Login Using Facbook</button>
 </p>
 <p>
-<a class="twitter-before"></a>
+<p style="padding-left: 35px">
 <button class="twitter">Login Using Twitter</button>
 </p>
 </div> <!-- end login -->
