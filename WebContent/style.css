@@ -128,9 +128,10 @@ width: 250px;
 
 h2 {
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  margin: 40px 603px;
   font-size: 52px;
-  padding: 3px 20px;
-  text-align: center;
+
+ 
   text-transform: uppercase;
   text-rendering: optimizeLegibility;
 }
