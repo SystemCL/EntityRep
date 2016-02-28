@@ -4,15 +4,19 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" type="text/css" href="style.css"/>
 <title>Entity</title>
 </head>
 <body>
 
-<link rel="stylesheet" type="text/css" href="style.css"/>
 
-<form method="get" action="index.jsp" style="float: right;">
-    <input type="submit" value="Log Out">
-</form>
+
+
+<%@include file="header.jsp" %>
+<br>
+<br>
+
+
 
 <center><h2>Entity</h2></center>
 <center><h1>Vasile Ion Ion</h1></center>

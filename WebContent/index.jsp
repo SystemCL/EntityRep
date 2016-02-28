@@ -4,6 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" type="text/css" href="style.css"/>
 <title>Entity</title>
 </head>
 <body>
@@ -11,7 +12,7 @@
 <!-- <b><font size="9" color="#5F9EA0"><center>Entity</center></font></b> --> 
 <h2 class='retroshadow'>Entity</h2>
 
-<link rel="stylesheet" type="text/css" href="style.css"/>
+
 
 </head>
 <body>
