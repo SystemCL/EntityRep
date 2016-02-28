@@ -10,7 +10,7 @@
 <body>
 
 <!-- <b><font size="9" color="#5F9EA0"><center>Entity</center></font></b> --> 
-<h2 class='retroshadow'>Entity</h2>
+<h2 class='retroshadow'>Identity</h2>
 
 
 
@@ -27,9 +27,26 @@
 </fieldset>
 </form>
 <p><span class="btn-round" >or</span></p>
+
+
+<center><h1><strong>Register</strong></h1></center>
+
+<form action="entityMain.jsp" method="get">
+<fieldset>
+<p><input type="text" required value="Nume" onBlur="if(this.value=='')this.value='Nume'" onFocus="if(this.value=='Nume')this.value='' "></p>
+<p><input type="text" required value="Prenume" onBlur="if(this.value=='')this.value='Prenume'" onFocus="if(this.value=='Prenume')this.value='' "></p>
+<p><input type="text" required value="Data nasterii" onBlur="if(this.value=='')this.value='Data nasterii'" onFocus="if(this.value=='Data nasterii')this.value='' "></p>
+<p><input type="text" required value="Email" onBlur="if(this.value=='')this.value='Email'" onFocus="if(this.value=='Email')this.value='' "></p>
+
+<p><input type="submit" value="Register"></p>
+</fieldset>
+</form>
+
+<!--  
 <p style="padding-left: 35px">
 <button class="facebook">Login Using Facbook</button>
 </p>
+-->
 
 </div> <!-- end login -->
 </body>

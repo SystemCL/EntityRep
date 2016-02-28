@@ -9,16 +9,11 @@
 </head>
 <body>
 
-
-
-
 <%@include file="header.jsp" %>
 <br>
 <br>
 
 
-
-<center><h2>Entity</h2></center>
 <center><h1>Vasile Ion Ion</h1></center>
 
 <center><img class="example"  src="menSmile.jpg"></center>
