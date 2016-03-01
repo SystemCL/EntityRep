@@ -12,13 +12,14 @@ public class UserAc
     */
    public UserAc() 
    {
+	   
     
    }
    
    /**
     * @roseuid 56CDB08D0131
     */
-   public void search_known_by_id() 
+   private void search_known_by_id() 
    {
     
    }
