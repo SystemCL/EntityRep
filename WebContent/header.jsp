@@ -47,20 +47,21 @@ window.onload = function(){
 	    
 </center>
 
+
  <form method="get" action="index.jsp" style="float: right;">
             <input type="submit" value="Log Out">
         </form>
-        
+     
 
 		<form style="float: left;">
 		<a>Identity</a>
 		</form><br>
 		   
         
-        <form method="get" action="index.jsp" style="float: left;">
+        <form method="get" action="friends.jsp" style="float: left;">
             <input type="submit" value="Knowns">
         </form><br>
-		<form method="get" action="index.jsp" style="float: left;">
+		<form method="get" action="messages.jsp" style="float: left;">
             <input type="submit" value="Messages">
         </form><br>
         <form method="get" action="index.jsp" style="float: lest;">

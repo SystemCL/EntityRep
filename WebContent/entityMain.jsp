@@ -16,7 +16,7 @@
 
 <center><h1>Vasile Ion Ion</h1></center>
 
-<center><img class="example"  src="menSmile.jpg"></center>
+<center><img class="example"  src="images/menSmile.jpg"></center>
 
 
 <center><ul style="list-style-type:none;">
@@ -45,8 +45,32 @@
     <td><button type="button">UP  </button></td>
     <td><button type="button">DOWN</button></td>
   </tr>
+   <tr>
+    <td>10.10.2016<br>Some text, Some text, Some text, Some text, Some text</td> 
+    <td><button type="button">UP  </button></td>
+    <td><button type="button">DOWN</button></td>
+  </tr>
 
 </table></center>
+
+
+<br>
+<br>
+
+<center>
+<div class="test1">
+		<ul >
+			<li>Item<button type="button">UP  </button> <button type="button">UP  </button></li>
+			<li>Item</li>
+			<li>Item</li>
+			<li>Item</li>
+			<li>Item</li>
+			<li>Item</li>
+		</ul>
+</div>
+</center>
+
+
 
 </body>
 </html>
