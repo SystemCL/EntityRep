@@ -1,7 +1,6 @@
 //Source file: C:\\Users\\Vlad\\Desktop\\UserAc.java
 
-
-public class UserAc 
+public class UserAc implements Person 
 {
    private Integer idAccount;
    private String username;
@@ -12,7 +11,7 @@ public class UserAc
     */
    public UserAc() 
    {
-	   
+	  
     
    }
    

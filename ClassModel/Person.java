@@ -9,7 +9,7 @@ public interface Person
     * @return Boolean
     * @roseuid 56CDAA5B0082
     */
-   public Boolean edit();
+   public  Boolean edit();
    
    /**
     * @return Boolean

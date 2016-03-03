@@ -1,7 +1,7 @@
 //Source file: C:\\Users\\Vlad\\Desktop\\Message.java
 
 
-public class Message 
+public class Message implements MessInfo
 {
    private Integer idMessage;
    private String recipient;
@@ -14,7 +14,7 @@ public class Message
     */
    public Message() 
    {
-    
+   
    }
    
    /**
