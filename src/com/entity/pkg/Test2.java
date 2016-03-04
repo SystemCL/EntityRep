@@ -6,7 +6,8 @@ public class Test2 {
 	{
 	Test t = new Test();
 	t.testF();
-	t.
+	
+	
 	
 	
 

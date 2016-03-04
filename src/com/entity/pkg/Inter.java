@@ -1,8 +1,10 @@
 package com.entity.pkg;
 
 public interface Inter {
-    public static int zzz;
+
 	public void get();
+	
+	int abc();
 	
 }
 
