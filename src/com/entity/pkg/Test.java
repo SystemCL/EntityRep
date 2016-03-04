@@ -23,6 +23,16 @@ public class Test extends MessInfo {
  public int getName(){
 	 return 1;
  }
+@Override
+public void getMessage() {
+	// TODO Auto-generated method stub
+	
+}
+@Override
+public void setMessage() {
+	// TODO Auto-generated method stub
+	
+}
  
  
  
