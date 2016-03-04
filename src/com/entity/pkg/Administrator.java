@@ -1,6 +1,6 @@
 package com.entity.pkg;
 
-public class Administrator {
+public class Administrator extends UserAc {
 
 	public boolean newAccount(int idAccount){
 		

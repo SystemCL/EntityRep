@@ -7,7 +7,7 @@ import org.apache.tomcat.util.buf.StringCache;
 
 
 
-public abstract class MessInfo {
+public abstract class MessInfo implements MsgResp {
 	
 	public char name;
 	private char surname;
