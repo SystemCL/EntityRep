@@ -1,7 +1,7 @@
 package com.entity.pkg;
 
 public class Message {
-	public int idMessage;
+	
 	public String recipient;
 	public String messageContent;
 	

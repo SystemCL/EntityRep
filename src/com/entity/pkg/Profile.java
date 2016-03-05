@@ -13,9 +13,9 @@ public class Profile {
 	public long picture;
 	
 	
-	//public List<Message> messageList;
-	//public List<Comment> commentList;
-	//public List<Announcement> announcementList;
+	public List<Message> messageList;
+	public List<Comment> commentList;
+	public List<Announcement> announcementList;
 	
 	
 	public int sendKnownRequest(int id){
@@ -34,6 +34,21 @@ public class Profile {
 		
 		return false;
 		
+	}
+	
+	public boolean getMessages(){
+		
+		return false;
+	}
+	
+	public boolean getComments(){
+		
+		return false;
+	}
+	
+	public boolean getAnnouncement(){
+		
+		return false;
 	}
 
 }

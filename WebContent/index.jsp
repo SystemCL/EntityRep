@@ -16,8 +16,9 @@
 
 </head>
 <body>
+<h1 style= "text-align: center"><b>Welcome. Please login. </b> </h1> 
 <div id="login">
-<h1><strong>Welcome.</strong> Please login.</h1>
+
 <form action="entityMain.jsp" method="get">
 <fieldset>
 <p><input type="text" required value="Username" onBlur="if(this.value=='')this.value='Username'" onFocus="if(this.value=='Username')this.value='' "></p>
